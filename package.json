@@ -8,6 +8,7 @@
     "fs-extra": "^10.0.0",
     "fstorm": "latest",
     "hh-mm-ss": "^1.2.0",
+    "insert-line": "^1.1.0",
     "jimp": "latest",
     "libsodium-wrappers": "latest",
     "node-cron": "^3.0.0",
